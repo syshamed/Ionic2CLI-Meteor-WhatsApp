@@ -37,5 +37,8 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "Ionic2CLI-Meteor-Messenger: An Ionic project"
+  "description": "Ionic2CLI-Meteor-Messenger: An Ionic project",
+  "config": {
+    "ionic_webpack": "./config/webpack.config.js"
+  }
 }
