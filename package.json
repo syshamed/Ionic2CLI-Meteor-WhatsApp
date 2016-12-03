@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "0.0.47",
+    "@types/meteor-publish-composite": "0.0.32",
     "typescript": "2.0.9"
   },
   "cordovaPlugins": [
